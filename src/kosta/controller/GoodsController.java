@@ -7,5 +7,6 @@ public class GoodsController {
 	  System.out.println("합친결과");
   }
   public void selectAll(){
+	  System.out.println("곧 집에간다~~");
   }
 }
