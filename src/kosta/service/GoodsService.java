@@ -17,4 +17,8 @@ public class GoodsService {
 	public void delete() {
 		System.out.println("시나리오4번 원격에서 delete 추가");
 	}
+	
+	public void test() {
+		System.out.println("강의장에서 수정");
+	}
 }
