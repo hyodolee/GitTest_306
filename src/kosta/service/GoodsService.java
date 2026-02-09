@@ -13,4 +13,8 @@ public class GoodsService {
 	public void update() {
 		System.out.println("시나리오4번 local에서 update 수정");
 	}
+	
+	public void delete() {
+		System.out.println("시나리오4번 원격에서 delete 추가");
+	}
 }
